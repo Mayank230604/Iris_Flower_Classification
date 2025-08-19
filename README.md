@@ -1,32 +1,31 @@
-# Iris Flower Classification (Pro Version)
+# 🌸 Iris Flower Classification (Pro Version)
 
-This project classifies iris flowers into Setosa, Versicolor, and Virginica using multiple ML models.
+This project classifies iris flowers into **Setosa, Versicolor, and Virginica** using multiple ML models.  
+It demonstrates a complete **end-to-end ML workflow**:  
+**EDA → Preprocessing → Model Training → Hyperparameter Tuning → Evaluation → Visualization.**
 
-## What's New in Pro Version
-- Data visualization (pairplots, feature distributions)
-- Cross-validation (5-fold CV)
-- Hyperparameter tuning (GridSearchCV for KNN, Decision Tree)
-- Extra model: Support Vector Machine (SVM)
-- Decision boundary plot (first 2 features)
-- Clearer results summary
+---
 
-## Results
-- Cross-validation Accuracies:
-                    CV Accuracy
-SVM                    0.966667
-LogisticRegression     0.960000
-KNN                    0.960000
-DecisionTree           0.953333
+## ✨ What's New in the Pro Version
+- 📊 **Data Visualization** (pairplots, feature distributions)  
+- 🔄 **Cross-validation (5-fold CV)** for reliable evaluation  
+- 🔍 **Hyperparameter Tuning** with GridSearchCV (KNN, Decision Tree)  
+- 🧠 Added **Support Vector Machine (SVM)** → Best model  
+- 🎨 **Decision Boundary Plot** (first 2 features)  
+- 📑 Clearer results summary & professional structure  
 
-- Best hyperparameters:
+---
+
+## 📊 Results
+
+### Cross-validation Accuracy
+| Model              | CV Accuracy |
+|---------------------|-------------|
+| **SVM**             | **0.9667** |
+| Logistic Regression | 0.9600      |
+| KNN (k=5)           | 0.9600      |
+| Decision Tree (depth=4) | 0.9533 |
+
+### Best Hyperparameters
+```python
 {'KNN': {'clf__n_neighbors': 5}, 'DecisionTree': {'max_depth': 4}}
-
-- Best Model: SVM
-
-Confusion matrix and plots are saved in `figures/`.
-
-## Run Instructions
-```bash
-pip install -r requirements.txt
-python src/iris_classification.py
-```
