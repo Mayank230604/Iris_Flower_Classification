@@ -1,4 +1,3 @@
-````markdown
 # 🌸 Iris Flower Classification (Pro Version)
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) 
@@ -81,7 +80,6 @@ python src/iris_classification.py
 
 ⭐ *If you like this project, consider giving the repo a star on GitHub!*
 
-```
 
 ---
 
