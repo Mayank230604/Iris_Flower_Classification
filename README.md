@@ -30,4 +30,3 @@ Confusion matrix and plots are saved in `figures/`.
 pip install -r requirements.txt
 python src/iris_classification.py
 ```
-# Iris_Flower_Classification-
