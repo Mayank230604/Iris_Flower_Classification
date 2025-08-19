@@ -47,24 +47,6 @@ It demonstrates a complete **end-to-end ML workflow**:
 
 ---
 
-## 📂 Project Structure
-
-```
-iris_project_pro/
-│── data/
-│   └── iris.csv
-│── figures/
-│   ├── pairplot.png
-│   ├── feature_distributions.png
-│   ├── confusion_matrix.png
-│   └── decision_boundary.png
-│── src/
-│   └── iris_classification.py
-│── Iris_Classification_Summary_Report.pdf
-│── requirements.txt
-│── README.md
-```
-
 ## ⚡ Run Instructions
 
 ### 1. Clone the repository
