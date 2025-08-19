@@ -36,3 +36,30 @@ It demonstrates a complete **end-to-end ML workflow**:
 ```
 
 👉 Best Model: SVM (97% test accuracy)
+
+⚡ Run Instructions
+1. Clone the repository
+git clone https://github.com/Mayank230604/Iris_Flower_Classification-.git
+cd Iris_Flower_Classification-
+
+2. Create and activate virtual environment
+
+Windows (PowerShell):
+
+python -m venv venv
+venv\Scripts\activate
+
+
+Mac/Linux:
+
+python3 -m venv venv
+source venv/bin/activate
+
+3. Install dependencies
+pip install -r requirements.txt
+
+4. Run the script
+python src/iris_classification.py
+
+
+⭐ If you like this project, consider giving the repo a star on GitHub!
