@@ -65,26 +65,6 @@ iris_project_pro/
 │── README.md
 ```
 
----
-
-## 📝 Conclusion
-
-* ✅ **SVM** was the best model (97% accuracy).
-* ✅ Demonstrates **end-to-end ML workflow**.
-* ✅ Includes **visualization, tuning, and reproducible results**.
-* ✅ Project is professional & internship-ready.
-
----
-
-## 🌱 Future Enhancements
-
-* 🚀 Deploy as a **Streamlit or Flask app** for interactive predictions
-* 🌳 Try ensemble models like **Random Forest** or **XGBoost**
-* 🔎 Apply **PCA / dimensionality reduction** for 2D visualizations
-* ✅ Add unit tests & CI/CD pipeline for reproducibility
-
----
-
 ## ⚡ Run Instructions
 
 ### 1. Clone the repository
