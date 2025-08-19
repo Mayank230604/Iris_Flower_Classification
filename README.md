@@ -1,3 +1,4 @@
+````markdown
 # 🌸 Iris Flower Classification (Pro Version)
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) 
@@ -33,33 +34,55 @@ It demonstrates a complete **end-to-end ML workflow**:
 ### Best Hyperparameters
 ```python
 {'KNN': {'clf__n_neighbors': 5}, 'DecisionTree': {'max_depth': 4}}
-```
+````
 
-👉 Best Model: SVM (97% test accuracy)
+👉 **Best Model:** **SVM** (97% test accuracy)
 
-⚡ Run Instructions
-1. Clone the repository
+---
+
+## ⚡ Run Instructions
+
+### 1. Clone the repository
+
+```bash
 git clone https://github.com/Mayank230604/Iris_Flower_Classification-.git
 cd Iris_Flower_Classification-
+```
 
-2. Create and activate virtual environment
+### 2. Create and activate virtual environment
 
-Windows (PowerShell):
+**Windows (PowerShell):**
 
+```bash
 python -m venv venv
 venv\Scripts\activate
+```
 
+**Mac/Linux:**
 
-Mac/Linux:
-
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 
-3. Install dependencies
+### 3. Install dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-4. Run the script
+### 4. Run the script
+
+```bash
 python src/iris_classification.py
+```
+
+---
+
+⭐ *If you like this project, consider giving the repo a star on GitHub!*
+
+```
+
+---
 
 
-⭐ If you like this project, consider giving the repo a star on GitHub!
