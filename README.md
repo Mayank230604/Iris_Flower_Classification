@@ -75,13 +75,6 @@ source venv/bin/activate
 ### 3. Install dependencies
 
 ```bash
-git clone https://github.com/Mayank230604/Iris_Flower_Classification-.git
-cd Iris_Flower_Classification-
-python -m venv venv
-# Windows (PowerShell):
-venv\Scripts\activate
-# Mac/Linux:
-source venv/bin/activate
 pip install -r requirements.txt
 ```
 
