@@ -41,8 +41,6 @@ It demonstrates a complete **end-to-end ML workflow**:
 
 ## 🖼️ Visual Highlights
 
-## 🖼️ Visual Highlights
-
 | Pairplot | Feature Distributions |
 |----------|------------------------|
 | ![Pairplot](figures/pairplot.png) | ![Feature Distributions](figures/feature_distributions.png) |
