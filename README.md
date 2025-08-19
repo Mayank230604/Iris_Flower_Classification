@@ -125,6 +125,3 @@ python src/iris_classification.py
 ---
 
 ⭐ *If you like this project, consider giving the repo a star on GitHub!*
-
-```
-
