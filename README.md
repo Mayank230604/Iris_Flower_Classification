@@ -41,9 +41,15 @@ It demonstrates a complete **end-to-end ML workflow**:
 
 ## 🖼️ Visual Highlights
 
-| Pairplot                          | Confusion Matrix (SVM)                            | Decision Boundary (SVM)                             |
-| --------------------------------- | ------------------------------------------------- | --------------------------------------------------- |
-| ![Pairplot](figures/pairplot.png) | ![Confusion Matrix](figures/confusion_matrix.png) | ![Decision Boundary](figures/decision_boundary.png) |
+## 🖼️ Visual Highlights
+
+| Pairplot | Feature Distributions |
+|----------|------------------------|
+| ![Pairplot](figures/pairplot.png) | ![Feature Distributions](figures/feature_distributions.png) |
+
+| Confusion Matrix (SVM) | Decision Boundary (SVM) |
+|-------------------------|--------------------------|
+| ![Confusion Matrix](figures/confusion_matrix.png) | ![Decision Boundary](figures/decision_boundary.png) |
 
 ---
 
