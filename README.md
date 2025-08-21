@@ -1,6 +1,6 @@
 # 🌸 Iris Flower Classification (Pro Version)
 
-![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) 
+[![Python](https://img.shields.io/badge/Python-3.12.10-blue?logo=python&logoColor=white)](https://www.python.org/)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange) 
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
